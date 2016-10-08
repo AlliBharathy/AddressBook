@@ -1,5 +1,5 @@
-FAQ
+#FAQ
 
-Why "Address Book" project?
+###Why "Address Book" project?
 
-Address Book is the Foundational Project through which Industry approved standard desigh and Technology can be explored.
+Address Book is a **Foundational** Project through which Industry approved standard design and Technology can be explored.
