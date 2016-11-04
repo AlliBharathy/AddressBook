@@ -14,6 +14,7 @@ To get familiar with:
  - MVC<sup id="acr2">[2](#mvc)</sup> design pattern in C++
  - GUI framework (QT - pronunced as **cute** not as not  "cu-tee")
  - SSQLite API
+ - Enhance and maintain the project within Git/Github
 		  
 		  
 ###3. What is the Prerequisite?
