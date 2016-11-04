@@ -1,24 +1,25 @@
 #Welcome to AddressBook Project
 #FAQ
 
-###1.Why "Address Book" project?
+###1.What is the "Address Book" project?
 
 Address Book is a **Foundational** Project through which Industry approved standard design and Technology can be explored.
+It is a C.R.U.D. (create, read, update and display) project implemented in C++, and can be deployed
+as a mobile application to most mobile platforms.
 
 ###2.What is the "GOAL" of the project?
-          get familiar with
-		  **GUI framework(QT - pronunced as cute not as not  "cu-tee")**
-		  **SSQLite API.
-		  **MVC design pattern**
+
+To get familiar with: 
+ - MVC design pattern in C++
+ - GUI framework(QT - pronunced as **cute** not as not  "cu-tee")
+ - SSQLite API
 		  
 		  
-###3.prerequisites
-	C++ programming
+###3. What is the Prerequisite?
+ - C++ programming
 
-
-###4.Who can explore this project.
-	Any one with oop knowledge
-
+###4.Who can explore this project?
+ - Any one with some OOP fundamental knowledge
 
 ###5.Which "IDE"  is used?
 	Qt creator
