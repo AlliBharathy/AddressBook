@@ -4,14 +4,15 @@
 ###1.What is the "Address Book" project?
 
 Address Book is a **Foundational** Project through which Industry approved standard design and Technology can be explored.
-It is a C.R.U.D. (create, read, update and display) project implemented in C++, and can be deployed
-as a mobile application to most mobile platforms.
+It is a [C.R.U.D.]<sup id="crud">[1](#crud)</sup> project 
+implemented in C++, and can be deployed as a mobile application to 
+most mobile platforms.
 
 ###2.What is the "GOAL" of the project?
 
 To get familiar with: 
  - MVC design pattern in C++
- - GUI framework(QT - pronunced as **cute** not as not  "cu-tee")
+ - GUI framework (QT - pronunced as **cute** not as not  "cu-tee")
  - SSQLite API
 		  
 		  
@@ -24,5 +25,13 @@ To get familiar with:
 
 ###5.Which "IDE"  is used?
 	Qt creator
+
+
+<b id="crud">1</b> 
+The CRUD cycle describes the elemental functions of a persistent database. 
+CRUD stands for Create, Read, Update and Delete. 
+(Retrieve may occasionally be substituted for Read) 
+These functions are also descriptive of the data life cycle.
+[↩](#crud)
 
 	
