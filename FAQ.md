@@ -17,6 +17,7 @@ To get familiar with:
 		  
 ###3. What is the Prerequisite?
  - C++ programming
+ - Familiarity with using a Debugger (gdb) is a plus
 
 ###4.Who can explore this project?
  - Anyone with some OOP fundamental knowledge
