@@ -11,7 +11,7 @@ most mobile platforms.
 ###2.What is the "GOAL" of the project?
 
 To get familiar with: 
- - MVC design pattern in C++
+ - MVC<sup id="acr2">[2](#mvc)</sup> design pattern in C++
  - GUI framework (QT - pronunced as **cute** not as not  "cu-tee")
  - SSQLite API
 		  
@@ -27,11 +27,17 @@ To get familiar with:
 	Qt creator
 
 
+#### Footnotes
 <b id="crud">1</b> 
 The **CRUD** cycle describes the elemental functions of a persistent database. 
 **CRUD** stands for Create, Read, Update and Delete. 
 (Retrieve may occasionally be substituted for Read) 
 These functions are also descriptive of the data life cycle.  
 [↩](#acr)
+
+<b id="mvc">2</b>
+The Model-View-Controller (MVC) architectural pattern separates an application into three main components: the model, the view, and the controller. 
+[↩](#acr2)
+
 
 	
