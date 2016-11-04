@@ -19,7 +19,7 @@ To get familiar with:
  - C++ programming
 
 ###4.Who can explore this project?
- - Any one with some OOP fundamental knowledge
+ - Anyone with some OOP fundamental knowledge
 
 ###5.Which "IDE"  is used?
 	Qt creator
