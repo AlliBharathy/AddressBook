@@ -28,8 +28,8 @@ To get familiar with:
 
 
 <b id="crud">1</b> 
-The CRUD cycle describes the elemental functions of a persistent database. 
-CRUD stands for Create, Read, Update and Delete. 
+The **CRUD** cycle describes the elemental functions of a persistent database. 
+**CRUD** stands for Create, Read, Update and Delete. 
 (Retrieve may occasionally be substituted for Read) 
 These functions are also descriptive of the data life cycle.  
 [↩](#acr)
