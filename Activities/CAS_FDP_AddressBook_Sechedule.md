@@ -3,7 +3,7 @@
 |01/11/2016 | Module 1      | Introduction to Git|	
 |01/11/2016 | Module 2      | Introduction to QT & simple application in QT |
 |02/11/2016 | Module 3      | Building an AddressBook project from source |
-|			| Module-4      | **MVC** design pattern and understanding **MVC** in AddressBook |
+|			| Module 4      | **MVC** design pattern and understanding **MVC** in AddressBook |
 |03/11/2016 | Module 5		| Signals and slots |
 |			|				| Identifying Signals and Slots in AddressBook project |
 |04/11/2016	| Module 6		| Identifying and Understanding Signals and Slots in AddressBook
