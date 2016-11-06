@@ -1,3 +1,5 @@
+#FDP Schedule
+
 | Date        | Module          | Description |
 | ----------  |:---------------:| ----------- |
 |01/11/2016 | Module 1      | Introduction to Git|	
