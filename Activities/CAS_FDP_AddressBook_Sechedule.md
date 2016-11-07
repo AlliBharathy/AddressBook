@@ -11,7 +11,7 @@
 |04/11/2016	| Module 6		| Identifying and Understanding Signals and Slots in AddressBook
 |			|				| C++ Code review of the AddressBook Project in a Debugger |
 |07/11/2016 | Module 7		| Complete understanding of Address book project by adding a new field to the table |	
-|08/11/2016 | Module 8      | introducing  "Find/Search"  functionality |
+|08/11/2016 | Module 8      | Introducing  "Find/Search"  functionality |
 |09/11/2016 | Module 9 		| Establishing connectivity to backend  - MySQL |
 |10/11/2016 | Module 9      |      C.R.U.D operations at least creation|
 |11/11/2016 | Module 10     | Configuring AddressBook project for Android |
