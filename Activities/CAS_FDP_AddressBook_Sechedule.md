@@ -1,3 +1,7 @@
+###Useful links 
+Quick reference for Github Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
 #FDP Schedule
 
 | Date        | Module          | Description |
