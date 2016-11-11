@@ -10,13 +10,15 @@ most mobile platforms.
 
 ###2.What is the "GOAL" of the project?
 
+The expected learning outcome: To implement an ALGORITHM (_a.k.a_ MVC Design Pattern) in a specific language (C++) using the OOP paradigm
+
 To get familiar with: 
  - MVC<sup id="acr2">[2](#mvc)</sup> design pattern in C++
  - GUI framework (QT - pronunced as **cute** not as not  "cu-tee")
  - SSQLite API
  - Enhance and maintain the project within Git/Github
-		  
-		  
+
+
 ###3. What is the Prerequisite?
  - C++ programming
  - Familiarity with using a Debugger (gdb) is a plus
