@@ -3,10 +3,9 @@
 
 ###1.What is the "Address Book" project?
 
-Address Book is a **Foundational** Project through which Industry approved standard design and Technology can be explored.
-It is a **C.R.U.D.**<sup id="acr">[1](#crud)</sup> project 
-implemented in C++, and can be deployed as a mobile application to 
-most mobile platforms.
+Address Book is a **Foundational** Project through which industry-grade standard design and technology can be explored.
+It is a **C.R.U.D.**<sup id="acr">[1](#crud)</sup> project implemented in C++ language 
+using the MVC pattern in its design, and can be deployed as a mobile application to most mobile platforms.
 
 ###2.What is the "GOAL" of the project?
 
