@@ -1,6 +1,6 @@
-<p align="center">**Work shop Report** </p>
+<p align="center"><b>Work shop Report</b> </p>
 
-**Focus of the Workshop**
+<b>Focus of the Workshop</b>
 
 The work shop focused on
 
