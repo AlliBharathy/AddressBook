@@ -1,4 +1,4 @@
-## Workshop on MVC  Design Pattern in C++ - KGCAS MSc -SS III year (9/12/2016 to 14/12/2016)* 
+## Workshop on MVC  Design Pattern in C++ - KGCAS MSc -SS III year <br/>(9/12/2016 to 14/12/2016)* 
 ### Schedule
 | Day   |Topics Covered|Faculty | 
 |:----- |:--------------|:----------------|
