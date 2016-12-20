@@ -7,3 +7,5 @@
 |Day 3 (12/12/2016)|some View level changes <br/> *Adding a field to the Database <br/>*Introducing  "Find/Search"  functionality | Ms. Ajitha<br/> Ms. Bharathy|
 |Day 4 (14/12/2016)|Establishing connectivity to backend  - MySQL in QT|  Ms. Ajitha<br/> Ms. Bharathy |
 
+Students are advised to proceed further to take the challenge of  "Search" option  given by Mr.Ashok M.D.
+
