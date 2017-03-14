@@ -10,10 +10,11 @@
  
 Students are advised to take initiative and  explore further.
 
-<Supporting Faculties</bold><br>
+####Supporting Faculties<br>
 Mr. Nandha Kumar<br>
 Ms. Mohana Lakshmi<br>
 Ms. Presiila<br>
+Ms. Suganthi<br>
 Ms. Shanthini<br>
 Mr. Vivekanandhan<br>
 Ms. Tini <br>
