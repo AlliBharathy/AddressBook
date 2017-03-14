@@ -1,6 +1,6 @@
 ## Workshop on Developing a Industry standard mini project  in java 
 ### Participants - IIM MCA IIyear   (From 6/3/2017 to 14/3/2017)
-####Design Patterns covered  <br/> *MVC<br/>*Singleton<br/>*DAO
+####Design Patterns covered  <br/> *MVC*<br/>*Singleton*<br/>*DAO*
 #### Using property file - to avoid recompilation of source code when databse is changed.
 ###Conducted By  - Bharathy A
 ### Schedule
