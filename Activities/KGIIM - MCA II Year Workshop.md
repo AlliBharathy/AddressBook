@@ -1,5 +1,6 @@
-## Workshop on MVC  Design Pattern in java - IIM MCA IIyear <br/>(6/3/2017 to 14/3/2017)
-###Conducted By Bharathy A
+## Workshop on Developing a Industry standard mini project  in java 
+### Participants - IIM MCA IIyear   (From 6/3/2017 to 14/3/2017)
+###Conducted By  - Bharathy A
 ### Schedule
 | Day   |Date  |Topics Covered| 
 |:----- |:--------------|:----------------|
@@ -12,5 +13,5 @@
 |Day 7 |(13/03/2017)|DAO Design Pattern  <br/> Understanding usage of DAO  Design pattern in the AddressBook miniproject |
 |Day 8 |(09/03/2017)|Recap of  all the industry standards covered .<br/> Discussion  on adding a New functionality <br/>Feedback from Students |
 
-Students are advised to proceed further to take the challenge of  "Search" option  given by Mr.Ashok M.D.
+Students are advised to proceed further to take the challenge of  **Search** option  given by Mr.Ashok M.D.
 
